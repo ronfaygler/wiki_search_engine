@@ -18,6 +18,7 @@ queries+results given to you in new_train.json) and test (held out for evaluatio
 
 ## **code structure**
 ● search_frontend.py: Flask app for search engine frontend.
+
 ● inverted_index_gcp.py: indexer of documents which creates postings lists for the search engine over GCP
 
 ## **functionality**
